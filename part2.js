@@ -90,7 +90,7 @@ function momChecksRoom(){
         console.log("Good job, sweetie!")       // code to execute if condition is true
     } else {
         console.log(" you are grounded forever!") // code to execute if condition is false
-    }                           // if(conditonal statement){
+    }                          
 }
 
 // momChecksRoom()
